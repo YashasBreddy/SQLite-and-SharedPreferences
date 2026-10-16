@@ -35,6 +35,10 @@ A clean, modern, and secure Android application demonstrating **SQLite Key-Value
 
 ![Application Output](screenshots/Screenshot2.png)
 
+<img width="1080" height="2400" alt="1" src="https://github.com/user-attachments/assets/66e9ce1d-4e2a-45fd-8d39-9de9cc91503b" />
+
+<img width="1080" height="2400" alt="2" src="https://github.com/user-attachments/assets/85687fad-94e5-4971-b419-bd97643c36ce" />
+
 ---
 
 
